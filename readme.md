@@ -118,6 +118,9 @@ Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the va
 
 ## Development
 
+<script src="https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91.js"></script>
+[Devops Best Practices](https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91.js)
+
 Clone the repository, install the dependencies and start the application
 
 ```bash
@@ -144,10 +147,7 @@ git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
 - Spread the word
 
 ## Thanks to all contributors ❤
-
- <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
- </a>
+> ...
 
 ## License
 
